@@ -239,6 +239,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$49~~ $34.30 Pro license, code `BLACKFRIDAY`, ends Dec 6
 
+- [Social Fetch](https://www.socialfetch.dev/black-friday) - Public social media data as JSON, via API and MCP.
+
+  > Double credits at checkout, no code, to 1 Dec 2026. 100 free credits on signup, no card.
+
 ### Testing and Security
 
 - [Vibe App Scanner](https://vibeappscanner.com/black-friday) - Security scanner for live apps and source code.
