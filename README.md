@@ -261,6 +261,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$69~~ From $34.50, early bird, or 30% off with code `BF2026`
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=vibe-checker.appwrite.network&sz=64" width="16" height="16" alt=""></picture> [VibeShield Pro](https://vibe-checker.appwrite.network/) - Pre-launch web security scanner for Cursor, Lovable, Bolt, v0, Next.js, and Supabase apps (52 client JS secret patterns, read-only PostgREST RLS & public bucket checks, 10 Observatory security headers, and exposed `.env`/`.git`/`.map` detection).
+
+  > ~~$9~~ $2 one-time lifetime (78% off), or ~~$29~~ $5 3-in-1 Developer Suite (83% off), no code needed, ends Dec 2
+
 ## Ship
 
 ### Hosting and Domains
