@@ -247,6 +247,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$49~~ $34.30 Pro license, code `BLACKFRIDAY`, ends Dec 6
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=pastenotch.com&sz=64" width="16" height="16" alt=""></picture> [PasteNotch](https://pastenotch.com/black-friday) - Mac clipboard manager in the notch with searchable history of text, links, images, and files.
+
+  > ~~$4.99~~ $2.49 one-time, code `BLACKFRIDAY50`, ends Dec 1
+
 ### Testing and Security
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=vibeappscanner.com&sz=64" width="16" height="16" alt=""></picture> [Vibe App Scanner](https://vibeappscanner.com/black-friday) - Security scanner for live apps and source code.
