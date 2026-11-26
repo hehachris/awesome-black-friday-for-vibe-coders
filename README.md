@@ -111,6 +111,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$169~~ $89 lifetime (47% off) or ~~$59~~ $39 first year (34% off), no code needed, ends Dec 15
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=getswitchy.app&sz=64" width="16" height="16" alt=""></picture> [Switchy](https://getswitchy.app/black-friday) - Mac menu bar app that shows Claude and Codex usage limits, deploy status, and 2FA codes, plus 31 one-click Mac switches.
+
+  > ~~$4.99~~ $2.49 one-time, up to 3 Macs, code `BLACKFRIDAY50`, ends Dec 1
+
 ### Chat and Voice
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=one.google.com&sz=64" width="16" height="16" alt=""></picture> [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
