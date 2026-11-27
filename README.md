@@ -209,6 +209,10 @@ No code required. Promotion ends Dec 6.
 
   > 30% off every license, no code needed, ends Nov 30
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=tolga571.github.io&sz=64" width="16" height="16" alt=""></picture> [QuietCraft UI Pro](https://jumpertheme.gumroad.com/l/quietcraft-ui-pro/FIRST50) - Clean React 19 and Tailwind CSS v4 component kit with 4px tokens, dark/light themes, Figma tokens, Playwright QA, and AGENTS.md guardrails.
+
+  > 40% off ($5 to $3) with code `FIRST50`, or 60% off first 10 ($2) with `FIRST10`, ends Dec 1
+
 ## Debug
 
 ### Databases
