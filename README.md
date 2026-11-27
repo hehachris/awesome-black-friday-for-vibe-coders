@@ -291,6 +291,10 @@ No code required. Promotion ends Dec 6.
 
   > 35% off the first payment on any paid plan, code `BLACKFRIDAY35`, ends Dec 3
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=www.12hpy.com&sz=64" width="16" height="16" alt=""></picture> [12happy](https://www.12hpy.com/deals/black-friday?utm_source=hehachris&utm_medium=deal-list&utm_campaign=black-friday-2026) - Uptime monitoring and status pages.
+
+  > 3 months of Pro free, code `BLACKFRIDAY`, no card, first 100 accounts, ends Dec 1
+
 - <picture><img src="https://www.google.com/s2/favicons?domain=tryastro.app&sz=64" width="16" height="16" alt=""></picture> [Astro](https://tryastro.app/) - App Store keyword tracking for Apple developers.
 
   > 30% off the first year, code `BLACKFRIDAY2026`
