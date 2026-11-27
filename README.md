@@ -247,6 +247,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$49~~ $34.30 Pro license, code `BLACKFRIDAY`, ends Dec 6
 
+- <picture><img src="https://www.context.dev/favicon.ico" width="16" height="16" alt=""></picture> [Context.dev](https://www.context.dev/pricing) - Web search, scraping and crawling APIs for AI agents.
+
+  > 30% off paid plans for one year, automatically applied, no code needed; Developer $20 → $14/month, ends Dec 1
+
 ### Testing and Security
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=vibeappscanner.com&sz=64" width="16" height="16" alt=""></picture> [Vibe App Scanner](https://vibeappscanner.com/black-friday) - Security scanner for live apps and source code.
