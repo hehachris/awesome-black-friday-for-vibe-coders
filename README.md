@@ -111,6 +111,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$169~~ $89 lifetime (47% off) or ~~$59~~ $39 first year (34% off), no code needed, ends Dec 15
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=vibeisland.app&sz=64" width="16" height="16" alt=""></picture> [Vibe Island](https://vibeisland.app/) - Mac notch panel for Claude Code, Codex, Cursor and 27 more coding agents: approve, answer, or jump to the exact terminal tab.
+
+  > ~~$19.99~~ $11.99 license (40% off), no code needed, ends Dec 1
+
 ### Chat and Voice
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=one.google.com&sz=64" width="16" height="16" alt=""></picture> [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
