@@ -247,6 +247,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$49~~ $34.30 Pro license, code `BLACKFRIDAY`, ends Dec 6
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=apxy.dev&sz=64" width="16" height="16" alt=""></picture> [APXY](https://apxy.dev/?utm_source=github&utm_medium=bf_list&utm_campaign=bfcm2026) - Local HTTP/HTTPS debugging proxy with a CLI and MCP server so coding agents can check the real requests their code sends. macOS and Linux.
+
+  > ~~$99~~ $69.30 Pro license, one-time for 3 devices, code `APXY2026`
+
 ### Testing and Security
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=vibeappscanner.com&sz=64" width="16" height="16" alt=""></picture> [Vibe App Scanner](https://vibeappscanner.com/black-friday) - Security scanner for live apps and source code.
