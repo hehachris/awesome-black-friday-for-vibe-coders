@@ -111,6 +111,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$169~~ $89 lifetime (47% off) or ~~$59~~ $39 first year (34% off), no code needed, ends Dec 15
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=agnt.gg&sz=64" width="16" height="16" alt=""></picture> [AGNT](https://agnt.gg/pricing) - Desktop platform that runs AI agents and workflows on your computer or a dedicated cloud instance.
+
+  > ~~$290~~ $174 first year of Pro yearly, ~~$990~~ $594 Team (40% off), code `BLACKFRIDAY`, ends Nov 30
+
 ### Chat and Voice
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=one.google.com&sz=64" width="16" height="16" alt=""></picture> [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
