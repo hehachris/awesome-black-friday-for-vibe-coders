@@ -249,7 +249,7 @@ No code required. Promotion ends Dec 6.
 
 - <picture><img src="https://www.context.dev/favicon.ico" width="16" height="16" alt=""></picture> [Context.dev](https://www.context.dev/pricing) - Web search, scraping and crawling APIs for AI agents.
 
-  > 30% off paid plans for one year, automatically applied, no code needed; Developer $20 → $14/month, ends Dec 1
+  > 30% off new purchases of paid plans for one year, automatically applied, no code needed; Developer $20 → $14/month, ends Dec 1
 
 ### Testing and Security
 
