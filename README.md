@@ -141,6 +141,10 @@ No code required. Promotion ends Dec 6.
 
   > Up to 85% off plus double credits, ends Dec 14
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=pake.run&sz=64" width="16" height="16" alt=""></picture> [Pake](https://pake.run/) - Desktop app that turns any website into a lightweight Mac, Windows or Linux app.
+
+  > 20% off the one-time license, $19 → $15.20, no code, ends Nov 30
+
 ### Starter Kits
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=makerkit.dev&sz=64" width="16" height="16" alt=""></picture> [MakerKit](https://makerkit.dev/pricing) - SaaS starter kits for Next.js, React Router, and TanStack Start with agent rules and an MCP server.
