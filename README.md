@@ -281,6 +281,10 @@ No code required. Promotion ends Dec 6.
 
   > First-year sale on selected domain extensions, ends Dec 4
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=staxa.dev&sz=64" width="16" height="16" alt=""></picture> [Staxa](https://staxa.dev/#pricing) - Hosting for SaaS with an isolated app, database, subdomain and SSL for each customer, from a dashboard or one API call.
+
+  > 50% off the first 3 months of Starter ($49 → $24.50/mo) or Growth ($199 → $99.50/mo), code `STAXABF50`, monthly billing, new subscriptions, first 100 customers, ends Nov 30
+
 ### Analytics and App Stores
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=pirsch.io&sz=64" width="16" height="16" alt=""></picture> [Pirsch](https://pirsch.io/pricing) - Privacy-friendly web analytics.
