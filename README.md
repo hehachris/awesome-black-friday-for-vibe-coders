@@ -281,6 +281,10 @@ No code required. Promotion ends Dec 6.
 
   > First-year sale on selected domain extensions, ends Dec 4
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=beam.cloud&sz=64" width="16" height="16" alt=""></picture> [Beam](https://www.beam.cloud/pricing) - Serverless GPUs, sandboxes, and VMs for AI apps and agents.
+
+  > Credit purchases matched 1:1, up to $100 free, no code, ends Nov 30
+
 ### Analytics and App Stores
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=pirsch.io&sz=64" width="16" height="16" alt=""></picture> [Pirsch](https://pirsch.io/pricing) - Privacy-friendly web analytics.
