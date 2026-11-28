@@ -111,6 +111,10 @@ No code required. Promotion ends Dec 6.
 
   > ~~$169~~ $89 lifetime (47% off) or ~~$59~~ $39 first year (34% off), no code needed, ends Dec 15
 
+- <picture><img src="https://www.google.com/s2/favicons?domain=opencomputer.dev&sz=64" width="16" height="16" alt=""></picture> [OpenComputer](https://opencomputer.dev/blog/black-friday-2026/) - Open-source cloud coding agent that takes tasks in Slack, runs Claude Code or Codex on a cloud machine, and opens pull requests.
+
+  > ~~$20~~ $10 a month Pro with 4,000 work minutes, or ~~$200~~ $100 Max with 50,000, new plans, no code needed, ends Nov 30
+
 ### Chat and Voice
 
 - <picture><img src="https://www.google.com/s2/favicons?domain=one.google.com&sz=64" width="16" height="16" alt=""></picture> [Google AI](https://one.google.com/about/google-ai-plans/) - Gemini plans that include usage in Google Antigravity and AI Studio.
